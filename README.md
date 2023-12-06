@@ -1,4 +1,3 @@
-
 # Google Keep Clone
 
 ## Overview
@@ -26,9 +25,6 @@ The application utilizes local storage to persist notes. Notes are saved automat
 - HTML
 - CSS
 - JavaScript
-
-## Preview
-![Google Keep Clone Preview](link-to-your-project-preview)
 
 ## Author
 [Vishakha Singhal]
